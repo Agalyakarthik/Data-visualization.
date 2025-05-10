@@ -34,6 +34,24 @@ Line plots display trends over time or ordered categories, making them ideal for
 **Scatter Plots**
 Scatter plots are essential for visualizing the relationship between two continuous variables and identifying patterns or correlations.
 
+**Distribution Plots (E.g., Histogram, KDE Plot)**
+
+**Understanding Data Distribution**
+Distribution plots help visualize how data points are spread across different values, showing the frequency of each value.
+
+**Benefits of KDE Plots**
+KDE plots provide a smooth estimate of the data distribution, helping identify underlying patterns and trends more clearly than histograms.
+
+**Understanding Matrix Plots**
+Matrix plots help in visualizing data structures in a clear format, making it easier to interpret complex datasets.
+
+**Heatmaps for Correlations**
+Heatmaps are effective for identifying correlations between variables, providing insights into data relationships.
+
+**Cluster Maps**
+Cluster maps group data points based on similarity, allowing for easier identification of patterns within complex data![image]
+
+
 
 
 
