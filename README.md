@@ -49,7 +49,7 @@ Matrix plots help in visualizing data structures in a clear format, making it ea
 Heatmaps are effective for identifying correlations between variables, providing insights into data relationships.
 
 **Cluster Maps**
-Cluster maps group data points based on similarity, allowing for easier identification of patterns within complex data![image]
+Cluster maps group data points based on similarity, allowing for easier identification of patterns within complex data
 
 
 
