@@ -23,4 +23,19 @@ Seaborn comes with built-in themes and color palettes, making it easy to create 
 **Quick Data Visualization**
 With these datasets, users can immediately create visualizations without having to prepare their own data.
 
+**Different Types of Plot**
+
+**Bar Plots**
+Bar plots are useful for comparing quantities across different categories and visualizing frequency distributions.
+
+**Line Plots**
+Line plots display trends over time or ordered categories, making them ideal for showing data changes.
+
+**Scatter Plots**
+Scatter plots are essential for visualizing the relationship between two continuous variables and identifying patterns or correlations.
+
+
+
+
+
 
